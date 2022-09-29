@@ -1,0 +1,78 @@
+body { 
+    background-color: grey;
+}
+
+.home-background {
+    background-color: grey;
+}
+
+.red-background {
+    background-color: red;
+}
+
+.blue-background {
+    background-color: blue;
+}
+
+.green-background {
+    background-color: green;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
+
+#hamburger-menu {
+    width: 100px;
+    height: 75px;
+}
+
+.menu-down { 
+    list-style-type: none;
+    padding: o;
+    margin: 0; 
+    width: 200px;
+    color: #111;
+}
+
+.drop-down { 
+    display: block;
+    width: 200px;
+    height: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid black;
+}
+
+.v-menu {
+    visibility: hidden;
+}
+
+.squareOne {
+    padding: 12px ;
+    background-color: gray;
+}
+
+.squareTwo {
+    padding: 12px ;
+    background-color: red;
+}
+
+.squareThree {
+    padding: 12px ;
+    background-color: blue;
+}
+
+.squareFour {
+    padding: 12px ;
+    background-color: yellow;
+}
+
+.squareFive {
+    padding: 12px ;
+    background-color: green;
+}
+
+
+
+
